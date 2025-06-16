@@ -1,5 +1,8 @@
 streamlit
-fer==22.5.1
+fer
+moviepy
+imageio
+imageio-ffmpeg
 matplotlib
 numpy==1.26.4
 tensorflow==2.16.1
@@ -7,6 +10,4 @@ keras==3.1.1
 opencv-python==4.11.0.86
 opencv-contrib-python==4.11.0.86
 Pillow==11.2.1
-moviepy
-imageio
-imageio-ffmpeg
+
